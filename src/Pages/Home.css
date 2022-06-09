@@ -1,0 +1,9 @@
+.banner{
+    background: url("../Image/05.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
